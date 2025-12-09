@@ -59,6 +59,7 @@ https://huggingface.co/spaces/vaibhav3146/bubblesort-visualizer-vaibhav
 
 ## Testing & Verification
 
+### Test Case 1
 ![Test Case 1](screenshots/Test1-1.png)
 ![Test Case 1](screenshots/Test1-2.png)
 ![Test Case 1](screenshots/Test1-3.png)
@@ -68,3 +69,7 @@ https://huggingface.co/spaces/vaibhav3146/bubblesort-visualizer-vaibhav
 ![Test Case 1](screenshots/test1-7.png)
 ![Test Case 1](screenshots/test1-8.png)
 ![Test Case 1](screenshots/test1-9.png)
+
+### Test Case 2
+
+![Test Case 2](screenshots/Test2-1.png)
