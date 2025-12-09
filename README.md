@@ -59,4 +59,4 @@ https://huggingface.co/spaces/vaibhav3146/bubblesort-visualizer-vaibhav
 
 ## Testing & Verification
 
-![Test Case 1](screenshots/test1-1.png)
+![Test Case 1](screenshots/Test1-1.png)
