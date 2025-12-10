@@ -106,7 +106,7 @@ https://huggingface.co/spaces/vaibhav3146/bubblesort-visualizer-vaibhav
 
 # Author and Acknowledgment
 
-## Final Project: Gradio Algorithm - Bubble Sort
+## Final Project: Gradio Bubble Sort Algorithm - Bubble Sort
 ### Name: Vaibhav Arora
 ### Student ID: 20473293
 ### Course: CISC121
