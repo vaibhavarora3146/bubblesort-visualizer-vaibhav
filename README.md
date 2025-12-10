@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-It is an interactive web application which educates on the way Bubble Sort works in steps.  
+An interactive web application which educates on the way Bubble Sort works in steps.  
 It is developed on Gradio and it uses session state to remember in which point of the algorithm you are after clicking one of the buttons rather than restarting each time.
 
 ---
