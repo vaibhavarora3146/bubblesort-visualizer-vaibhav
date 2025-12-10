@@ -1,3 +1,8 @@
+# Bubble Sort Visualizer
+# Author: Vaibhav Arora - 20473293
+# Course: CISC121
+# Description: Bubble sort algorithm with the implementation of Gradio
+
 import gradio as gr
 
 # Sorting functions
